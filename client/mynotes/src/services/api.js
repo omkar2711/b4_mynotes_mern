@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base URL for the notes API (backend server endpoint)
-const API_URL = 'http://localhost:5001/api/notes';
+const API_URL = 'https://b4-mynotes-mern.onrender.com/api/notes';
 //get
 //post
 //put
